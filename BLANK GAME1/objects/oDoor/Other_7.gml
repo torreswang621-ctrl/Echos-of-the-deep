@@ -1,0 +1,1 @@
+room_goto(E_Cutscene);
